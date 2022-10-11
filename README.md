@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Bose landing
+1. Super responsive landing page for presenting music electronics products. BEM and SCSS preprocessors were used in the execution process.
+2. Tech stack: HTML, SCSS, JS
+3. 
+4. For run it on your machine: just fork this repo. Then clone it to your computer and run **nmp install** (**npm i**). After use **npm start**.
